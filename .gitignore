@@ -1,0 +1,15 @@
+# Virtual environment
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large data files
+data/
+*.csv
+*.txt
+
+# Mac files
+.DS_Store
